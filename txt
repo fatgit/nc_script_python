@@ -1,0 +1,7 @@
+проверка пользователся
+
+if connect.request_to_server(server, num, 'id -u '+ user).find('No such user') == -1:
+    print ('User has been found!!!')
+
+else:
+    print ('No such user')
