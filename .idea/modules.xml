@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../NC/.idea/NC.iml" filepath="$PROJECT_DIR$/../NC/.idea/NC.iml" />
       <module fileurl="file://$USER_HOME$/gui/.idea/gui.iml" filepath="$USER_HOME$/gui/.idea/gui.iml" />
       <module fileurl="file://$USER_HOME$/gui_nc/.idea/gui_nc.iml" filepath="$USER_HOME$/gui_nc/.idea/gui_nc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/namecheap.iml" filepath="$PROJECT_DIR$/.idea/namecheap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nc_script_python/.idea/namecheap.iml" filepath="$PROJECT_DIR$/nc_script_python/.idea/namecheap.iml" />
       <module fileurl="file://$USER_HOME$/NC/NC/user_uploads/wooey_scripts/.idea/wooey_scripts.iml" filepath="$USER_HOME$/NC/NC/user_uploads/wooey_scripts/.idea/wooey_scripts.iml" />
     </modules>
   </component>
